@@ -126,9 +126,6 @@ to assist in code generation, prompt refinement, design reasoning, and agent beh
 
 ---
 
-# Why This Portfolio Exists
-
-Block’s Builder Fellowship values **what you’ve built** more than your credentials.
 
 This portfolio demonstrates:
 
